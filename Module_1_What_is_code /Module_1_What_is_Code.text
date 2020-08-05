@@ -1,0 +1,53 @@
+Q1: 
+In your own words, what is a computer really doing whenever you type a letter on a keyboard? 
+
+
+A: 
+The computer and the keyboard are constantly waiting for input, once you hit a key, code is sent to pull the image of the letter from the memory made up of lines and circles and renders them into little box of pixels on the screen.
+
+Q2: 
+In your own words, how do computers use input and output to create experiences?
+
+
+A2: 
+The computer sits between the input and output devices. A computer program processes and digitises the input information that ends up as 0 or 1. The result is then sent to an output device such as a screen.
+
+Q3:
+Explain why software products are essentially “infinitely reproducible nothings.” 
+
+A3:
+Referring to a software. It is “infinitely reproducible nothings" because it is not a physical product that can be touched.
+
+Q4:
+In your own words, what is object-oriented programming? 
+
+A4:
+A programming style that organises data types in a hierarchy of classes
+for safety reasons by numbers, alphabet, inheritance.
+
+Q5:
+In your own words explain data and how it relates to code. 
+ 
+
+A5:
+Data and code and vice-versa.
+Data can be used as code (sublanguages, domain-specific languages) and code can be used as data (encoding booleans, numbers, lists, etc. as functions, replacing data structures with behavioural objects).
+
+Q6:
+What is a framework?
+
+A6:
+A framework is an application-specific software. A platform for developing software applications.
+
+Q7:
+What is debugging?
+
+A7:
+Debugging is fixing a broken code called "bug" that causes the application/software not to work properly, show error messages, or even crash. The word "debugging" coming from the first computers, when bud uses to climb on a wire and cause a short circuit, and when that happened the people in charge used to manually remove the bugs and that's why the called it "debugging" - to remove bugs literally and this word stayed till nowadays.
+
+Q8:
+Now, with more of an understanding of what code is, why do you want to learn how to code? 
+
+A8:
+I was always fascinated about code and the secrets of the computer. Always wanted to know how things really work in the background and were dreaming about being a hacker. I found myself building my own website when I was 16 without really learning how to code.
+I have the mindset of "problem-solving" and usually find a solution when I have a problem. Growing up into a digital world I knew I wanted to know more about how things work in the deep inside this mysterious world. I didn't have the English back then which stopped me from learning computer science but now I feel ready.
