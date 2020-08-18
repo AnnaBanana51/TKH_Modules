@@ -1,0 +1,12 @@
+const weekly_Income = parseInt(prompt("Weekly Income:"))
+const food_Cost = parseInt(prompt("Food Cost:"))
+const housing_Cost = parseInt(prompt("Housing Cos:"))
+const transportation_Cost = parseInt(prompt("Transportation Cost:"))
+const other_Cost = parseInt(prompt("Other Cost:"))
+const yearlySavingGoal = parseInt(prompt("How much you want to save in a year:"))
+const weeklySavingsGoal = yearlySavingGoal/52;
+console.log("weeklySavingsGoal: ",weeklySavingsGoal);
+const weekly_Income-(housing_Cost+transportation_Cost+other_Cost)
+
+if(weekly_Income < weeklySavingsGoal){
+console.log("You need to save" ,weeklySavingsGoal - weekly_Income");} else { console.log("You are on track"); 

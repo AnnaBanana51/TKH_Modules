@@ -1,0 +1,21 @@
+let fullNames = ["Westly Snipes", "Nicholas Cage", "Nasir Jones", "Sean Carter", "Sean Combs","Michael Jordan", "Patrick Ewing"];
+
+fullNames = fullNames.join(" ");
+var namesArray = fullNames.split(" ");
+console.log(namesArray);
+
+let firstNames = new Array() ;
+let lastNames = new Array();
+
+for(var i=0; i<namesArray.length; i++){
+  if(i%2==0){
+    firstNames.push(namesArray[i]);
+  }else{
+    lastNames.push(namesArray[i]);
+  }
+  
+}
+console.log("First Names: " + firstNames);
+console.log("Last Names: " + lastNames);
+
+
