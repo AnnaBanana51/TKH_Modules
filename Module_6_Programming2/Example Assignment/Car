@@ -1,0 +1,17 @@
+let car = {
+  brand: "Nissan",
+  model: "Versa",
+  doors: 4,
+  manufacturer: "Japan",
+  noise: function(){
+      alert("Vroom Vroom")
+  },
+  set setManu(manu) {
+      this.manufacturer = manu;
+  },
+  get carInfo(){
+      return "this car is made by " + this.manufacturer + ", the brand name is " + this.brand + ", it has " + this.doors + " doors"
+  }
+}
+
+console.log(car.carInfo)

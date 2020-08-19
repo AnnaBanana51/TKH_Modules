@@ -1,0 +1,17 @@
+let BrooklynNets = {
+  sport: "Basketbal",
+  head_coach: "Jacque Vaughn",
+  arena: "Barclays Center",
+  total_players: "21",
+  cheerTeam: function(){
+      alert("Go Nets!")
+  },
+  set setCoachInfo(coachInfo) {
+      this.head_coach = coachInfo;
+  },
+  get teamInfo(){
+      return "Brooklyn Nets is playing " + this.sport + ", the Head Coach is " + this.head_coach + ", in the arena of " + this.arena + ", total players " + this.total_players
+  },
+}
+
+console.log(BrooklynNets.teamInfo) 

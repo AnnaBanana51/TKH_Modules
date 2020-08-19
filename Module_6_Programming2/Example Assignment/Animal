@@ -1,0 +1,17 @@
+let Animal = {
+  group: "vertebrate",
+  class: "Mammalia",
+  species: "cat",
+  color: "grey",
+  makeVoice: function(){
+      alert("Meow Meow")
+  },
+  set satGroupInfo(grInfo) {
+      this.group = grInfo;
+  },
+  get animalInfo(){
+      return "This animal is belong to the group of " + this.group + ", in the class of " + this.animalClass + ", species: " + this.species + ", with the color of " + this.color
+  },
+}
+console.log(Animal.animalInfo) 
+VM1984:16 This animal is belong to the group of vertebrate, in the class of undefined, species: cat, with the color of grey
